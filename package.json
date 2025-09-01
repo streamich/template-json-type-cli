@@ -3,7 +3,7 @@
   "bin": {
     "CHANGEME": "./bin/cli.js"
   },
-  "packageManager": "yarn@4.5.0",
+  "packageManager": "yarn@4.9.4",
   "publishConfig": {
     "access": "public"
   },
