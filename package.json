@@ -59,7 +59,7 @@
     "vitest": "^3.2.4"
   },
   "dependencies": {
-    "@jsonjoy.com/json-type": "^1.3.0",
+    "@jsonjoy.com/json-type": "^2.0.0",
     "json-type-cli": "^1.0.0"
   }
 }
